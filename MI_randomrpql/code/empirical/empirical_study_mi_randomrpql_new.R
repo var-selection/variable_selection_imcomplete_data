@@ -284,8 +284,8 @@ library(mice)
 library(rpql)
 library(PlackettLuce)
 
-base::source(file="~/model_selection_missing_data/code/rwe.R")
-base::source(file="~/model_selection_missing_data/code/hidden_functions.R")
+base::source(file="~/MI_randomrpql/code/rwe.R")
+base::source(file="~/MI_randomrpql/code/hidden_functions.R")
 
 tmp_co_t=NULL
 
@@ -364,6 +364,7 @@ mod_result <- mod_table %>%
 
   )
 mod_result
+
 
 
 
