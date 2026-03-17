@@ -1,2 +1,0 @@
-The simulation study was conducted on a high-performance computing cluster (supercomputer) using R version 4.2.1 under Linux. 
-Jobs were submitted through SLURM on compute nodes equipped with dual Intel Xeon Gold 6338 processors (2 × 32 cores) and 128 GB RAM.
